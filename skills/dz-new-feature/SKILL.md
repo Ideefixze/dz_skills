@@ -1,6 +1,6 @@
 ---
 name: dz-new-feature
-description: Skill describing how to create new feature. Use when user wants to: "add", "change", "fix" or "implement" something.
+description: Skill describing how to create new feature. Use when user wants to "add", "change", "fix" or "implement" something.
 ---
 
 # dz-new-feature
