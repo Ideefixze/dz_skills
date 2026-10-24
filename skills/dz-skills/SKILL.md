@@ -23,6 +23,15 @@ Question - a single query to the user that describes the problem shortly, straig
 Interview - a series of questions from AI agent to the user.
 Decision - a choice between A or B. A free text describing a selected solution.
 
+### Common usage patterns
+
+1. New project? -> dz-interview + dz-boilerplate + dz-unslop to cleanup README.md
+2. Feature? -> dz-interview + dz-new-feature
+3. Writing content? -> dz-unslop
+
+Use skills freely and don't forget the rules defined in this main dz-skills skill.
+This is the most important **CORE** skill to follow in all cases!
+
 ### General rules
 
 1. NARUTO - Never Apply Rules Unquestioningly; Think & Observe
