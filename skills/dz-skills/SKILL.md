@@ -28,9 +28,11 @@ Decision - a choice between A or B. A free text describing a selected solution.
 1. New project? -> dz-interview + dz-boilerplate + dz-unslop to cleanup README.md
 2. Feature? -> dz-interview + dz-new-feature
 3. Writing content? -> dz-unslop
+4. Creating a new non-trivial feature -> dz-interview + dz-analyze + dz-new-feature
+5. Research topic -> dz-analyze + dz-unslop
 
 Use skills freely and don't forget the rules defined in this main dz-skills skill.
-This is the most important **CORE** skill to follow in all cases!
+This is the most important **CORE** skill to follow in all cases, because it describes a communication protocol and a general usage od other dz-* skills.
 
 ### General rules
 
