@@ -32,6 +32,7 @@ Find proofs that would be sources of truth for hypotheses, in:
 - common opinions on forums (Reddit, Stack Overflow etc.)
 
 Gather all proofs for all hypotheses and show them in a single document (.md file).
+Try to determine if certain source of truth might contain conflict of interest or a bias.
 Do not go into specific details, instead, provide links or human-made sources of truth.
 Then draw a final conclusion, by including all your findings. This conclusion should not be comprehensive - an abstract-sized text for human to get a general overview of the problem and a decision with short WHY and HOW.
 
@@ -50,3 +51,4 @@ Then draw a final conclusion, by including all your findings. This conclusion sh
 4. Nothing wrong with asking questions - ASK, don't assume
 5. Exploration is just as important as being correct
 6. Context for analysis is just as important as other parts: don't make a hypothesis assuming a personal project is an enterprise application, and vice versa
+7. Take into account conflict of interest - research sponsored by a company X will say that technology used by company X is safe.
