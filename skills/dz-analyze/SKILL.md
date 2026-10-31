@@ -24,7 +24,7 @@ After the hypotheses are defined, you must find proofs that support each of the 
 
 Find proofs that would be sources of truth for hypotheses, in:
 - existing project files
-- in external sources (webpages, books, blogs etc.)
+- in external sources (webpages, books, blogs etc.) via dz-web-search
 - scientific papers (arXiv, Google Scholar etc.)
 - experiments (running a simulation)
 - real-world examples, use cases

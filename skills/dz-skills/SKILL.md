@@ -29,10 +29,12 @@ Decision - a choice between A or B. A free text describing a selected solution.
 2. Feature? -> dz-interview + dz-new-feature
 3. Writing content? -> dz-unslop
 4. Creating a new non-trivial feature -> dz-interview + dz-analyze + dz-new-feature
-5. Research topic -> dz-analyze + dz-unslop
+5. Research topic -> dz-analyze + dz-web-search + dz-unslop
 
 Use skills freely and don't forget the rules defined in this main dz-skills skill.
 This is the most important **CORE** skill to follow in all cases, because it describes a communication protocol and a general usage od other dz-* skills.
+
+Any lookup that leaves the repo goes through dz-web-search (ketch). Read local files first.
 
 ### General rules
 
