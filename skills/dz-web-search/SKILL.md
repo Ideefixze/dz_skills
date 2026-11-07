@@ -1,6 +1,6 @@
 ---
 name: dz-web-search
-description: Skill for searching the internet with ketch. Use when a task needs external sources: web pages, opinions, OSS code, library docs, or the content of a URL. Not for local codebase lookups.
+description: "Skill for searching the internet with ketch. Use when a task needs external sources: web pages, opinions, OSS code, library docs, or the content of a URL. Not for local codebase lookups."
 ---
 
 # dz-web-search
